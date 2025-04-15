@@ -1,12 +1,12 @@
-# Text Transcoder
+# Text Encoder
 
 [![Website](https://img.shields.io/badge/Website-Live-blue)](https://text-transcoder.vercel.app/)
 
-TextTranscoder is a TypeScript-based tool designed to make text conversion and processing seamless. Visit the full website: [TextTranscoder](https://text-transcoder.vercel.app/).
+Text Encoder is a TypeScript-based tool designed to make text conversion and processing seamless. Visit the full website: [TextTranscoder](https://text-transcoder.vercel.app/).
 
 ## Features
 
-- **Text Encoding & Decoding**: Easily encode or decode text in various formats.
+- **Text Encoding & Decoding**: Easily encode text in various formats.
 - **Modern Web Interface**: A sleek, responsive UI powered by the latest web technologies.
 
 ---
