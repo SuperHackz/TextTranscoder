@@ -168,7 +168,7 @@ export default function EncodingConverter() {
       
       {/* Footer */}
       <footer className="mt-12 text-center text-gray-500 dark:text-gray-400 text-sm">
-        <p>Text Encoder Tool &copy; {new Date().getFullYear()} • <a href="#" className="text-primary hover:underline">Privacy Policy</a></p>
+        <p>Text Encoder Tool &copy; {new Date().getFullYear()} • <a href="#" className="text-primary hover:underline">Thank you fir using my tool!</a></p>
       </footer>
     </div>
   );
